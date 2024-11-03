@@ -38,6 +38,13 @@
     background-color: #525252;
 }
 
+body {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    background-color: #525252;
+    color: #525252;
+}
+
 /* ------------------------------------------Special paddings/margins/text */
 
 h1,
